@@ -1,0 +1,7 @@
+Alex,Cairo,5,0,ASX4,bus4,2/7/2018,500,1293,internal
+Alex,Libya,5,0,ASX5,bus5,1/6/2018,500,1293,external
+Alex,Cairo,5,0,ASX1,bus1,1/4/2018,200,1293,internal
+Alex,Cairo,5,0,ASX2,bus2,5/4/2018,500,1425,internal
+Alex,Cairo,5,0,ASX3,bus3,4/6/2018,500,1654,internal
+Alex,KSA,5,0,ASX6,limo1,3/12/2018,500,1245,external
+Alex,Sudan,5,0,ASX7,mini1,3/5/2018,500,1245,external

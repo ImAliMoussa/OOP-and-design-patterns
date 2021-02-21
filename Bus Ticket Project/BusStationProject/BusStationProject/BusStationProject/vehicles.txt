@@ -1,0 +1,13 @@
+24,0,true,bus1
+24,0,true,bus2
+24,0,true,bus3
+8,0,true,limo1
+24,0,true,bus4
+24,0,true,bus5
+24,0,true,bus6
+8,0,true,limo2
+24,0,true,bus7
+24,0,true,bus8
+24,0,true,bus9
+8,0,true,limo3
+16,0,true,mini1

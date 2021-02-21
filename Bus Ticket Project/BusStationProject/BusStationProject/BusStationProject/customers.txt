@@ -1,0 +1,7 @@
+Ahmed,Ahmed,01207,19,3,ASX1,true
+Ahmed,Gasser,01208,19,3,ASX1,false
+Ali1,Hamada,01209,19,3,ASX2,false
+Ali2,Moussa,012010,19,3,ASX2,false
+Al3i,3elwa,012000,19,3,ASX2,false
+Ali33,Moussa,01206,19,3,ASX3,false
+Ali33,Moussa,01206,19,6,ASX3,false
